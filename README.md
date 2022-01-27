@@ -1,2 +1,2 @@
 # Hayley
-Simple discord.js which has fun , image , info commands
+Simple discord.js bot which has fun , image , info commands
